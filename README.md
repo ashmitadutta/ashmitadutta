@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/ashmitadutta/ashmitadutta/assets/26355590/25d0f316-aeb8-47ba-b72c-fb572bef6129)
+
 <h1 align="center">Hi 👋, I'm Ashmita Dutta</h1>
 <h3 align="center">Open source novice, DevOps enthusiast, and tech aficionado. Eager to learn, contribute, and immerse myself in the dynamic realm of coding. Exploring diverse technologies with a passion for efficiency and innovation. 🚀💻 #OpenSource #DevOps #TechLove</h3>
 
