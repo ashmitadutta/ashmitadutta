@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmitadutta](https://github.com/ashmitadutta)
 
-- 📝 I regularly write articles on [https://medium.com/@ashmitadutta90](https://medium.com/@ashmitadutta90)
+- 📝 I regularly write articles on [https://ashmitadutta.hashnode.dev/](https://ashmitadutta.hashnode.dev/)
 
 - ⚡ Fun fact **I love movies and web series**
 
