@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmita Dutta</h1>
-<h3 align="center">Open source novice, DevOps enthusiast, and tech aficionado. Eager to learn, contribute, and immerse myself in the dynamic realm of coding. Exploring diverse technologies with a passion for efficiency and innovation. 🚀💻 #OpenSource #DevOps #TechLove</h3>
+<h3 align="center">Open source novice, Full Stack enthusiast, and tech aficionado. Eager to learn, contribute, and immerse myself in the dynamic realm of coding. Exploring diverse technologies with a passion for efficiency and innovation. 🚀💻 #OpenSource #DevOps #TechLove</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmitadutta&label=Profile%20views&color=0e75b6&style=flat" alt="ashmitadutta" /> </p>
 
