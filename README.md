@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashsdev1997" target="blank"><img src="https://img.shields.io/twitter/follow/ashsdev1997?logo=twitter&style=for-the-badge" alt="ashsdev1997" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Git, Javascript, Docker, Kubernetes**
+- 🌱 I’m currently learning **Linux, Git, Docker, Kubernetes, Ansible, Jenkins, Terraform, Github Actions, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmitadutta](https://github.com/ashmitadutta)
 
